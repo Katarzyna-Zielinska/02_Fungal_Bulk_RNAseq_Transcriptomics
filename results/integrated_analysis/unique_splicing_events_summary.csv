@@ -1,0 +1,4 @@
+gene_id,event_type,event_id,JC_present,JCEC_present,JC_FDR,JCEC_FDR,JC_delta_PSI,JCEC_delta_PSI,edgeR_logFC,edgeR_FDR,limma_logFC,limma_FDR,DE_class,annotation_product,functional_description,annotation_match,common_significant_DE_and_splicing,JC_JCEC_complete
+gene-B9J08_000840,MXE,0,True,True,0.040036612295,0.040036612295,0.028,0.028,1.47134502267244,0.000460659783719679,1.48944753539858,0.000977670884442742,common_significant,hypothetical protein,COPI associated protein,True,True,True
+gene-B9J08_000840,MXE,1,True,True,0.00650210077486,0.00650210077486,0.033,0.033,1.47134502267244,0.000460659783719679,1.48944753539858,0.000977670884442742,common_significant,hypothetical protein,COPI associated protein,True,True,True
+gene-B9J08_004599,SE,8,True,True,0.0001906325118159,0.00019200314630750002,-0.032,-0.032,1.38194611884463,0.0012194876615672,1.4184183828451,0.00183917003915944,common_significant,hypothetical protein,Saccharomyces cerevisiae YOR020W-A,True,True,True

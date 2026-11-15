@@ -1,0 +1,107 @@
+{
+    "project": "Project 2 - Candida auris",
+    "analysis": "rMATS and differential expression integration",
+    "rmats_version": "4.4.0",
+    "FDR_threshold": 0.05,
+    "event_types": [
+        "SE",
+        "MXE",
+        "A5SS",
+        "A3SS",
+        "RI"
+    ],
+    "evidence_types": [
+        "JC",
+        "JCEC"
+    ],
+    "total_event_records": 26,
+    "significant_event_records": 6,
+    "unique_genes_with_significant_splicing": 2,
+    "genes_with_significant_DE_and_splicing": 2,
+    "event_summary": [
+        {
+            "event_type": "SE",
+            "evidence_type": "JC",
+            "total_events": 11,
+            "significant_FDR05": 1,
+            "not_significant": 10,
+            "FDR_threshold": 0.05
+        },
+        {
+            "event_type": "SE",
+            "evidence_type": "JCEC",
+            "total_events": 11,
+            "significant_FDR05": 1,
+            "not_significant": 10,
+            "FDR_threshold": 0.05
+        },
+        {
+            "event_type": "MXE",
+            "evidence_type": "JC",
+            "total_events": 2,
+            "significant_FDR05": 2,
+            "not_significant": 0,
+            "FDR_threshold": 0.05
+        },
+        {
+            "event_type": "MXE",
+            "evidence_type": "JCEC",
+            "total_events": 2,
+            "significant_FDR05": 2,
+            "not_significant": 0,
+            "FDR_threshold": 0.05
+        },
+        {
+            "event_type": "A5SS",
+            "evidence_type": "JC",
+            "total_events": 0,
+            "significant_FDR05": 0,
+            "not_significant": 0,
+            "FDR_threshold": 0.05
+        },
+        {
+            "event_type": "A5SS",
+            "evidence_type": "JCEC",
+            "total_events": 0,
+            "significant_FDR05": 0,
+            "not_significant": 0,
+            "FDR_threshold": 0.05
+        },
+        {
+            "event_type": "A3SS",
+            "evidence_type": "JC",
+            "total_events": 0,
+            "significant_FDR05": 0,
+            "not_significant": 0,
+            "FDR_threshold": 0.05
+        },
+        {
+            "event_type": "A3SS",
+            "evidence_type": "JCEC",
+            "total_events": 0,
+            "significant_FDR05": 0,
+            "not_significant": 0,
+            "FDR_threshold": 0.05
+        },
+        {
+            "event_type": "RI",
+            "evidence_type": "JC",
+            "total_events": 0,
+            "significant_FDR05": 0,
+            "not_significant": 0,
+            "FDR_threshold": 0.05
+        },
+        {
+            "event_type": "RI",
+            "evidence_type": "JCEC",
+            "total_events": 0,
+            "significant_FDR05": 0,
+            "not_significant": 0,
+            "FDR_threshold": 0.05
+        }
+    ],
+    "unique_splicing_genes": [
+        "gene-B9J08_000840",
+        "gene-B9J08_004599"
+    ]
+}

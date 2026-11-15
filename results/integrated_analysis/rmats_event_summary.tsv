@@ -1,0 +1,11 @@
+event_type	evidence_type	total_events	significant_FDR05	not_significant	FDR_threshold
+SE	JC	11	1	10	0.05
+SE	JCEC	11	1	10	0.05
+MXE	JC	2	2	0	0.05
+MXE	JCEC	2	2	0	0.05
+A5SS	JC	0	0	0	0.05
+A5SS	JCEC	0	0	0	0.05
+A3SS	JC	0	0	0	0.05
+A3SS	JCEC	0	0	0	0.05
+RI	JC	0	0	0	0.05
+RI	JCEC	0	0	0	0.05

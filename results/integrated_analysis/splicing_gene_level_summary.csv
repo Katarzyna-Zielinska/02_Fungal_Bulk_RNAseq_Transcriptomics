@@ -1,0 +1,3 @@
+gene_id,locus_tag,product,functional_description,KEGG_ko,edgeR_logFC,edgeR_FDR,limma_logFC,limma_FDR,DE_class,number_of_significant_event_records,number_of_significant_JC_records,number_of_significant_JCEC_records,event_types,evidence_types,common_significant_DE
+gene-B9J08_000840,B9J08_000840,hypothetical protein,COPI associated protein,,1.47134502267244,0.000460659783719679,1.48944753539858,0.000977670884442742,common_significant,4,2,2,MXE,JC;JCEC,True
+gene-B9J08_004599,B9J08_004599,hypothetical protein,Saccharomyces cerevisiae YOR020W-A,ko:K02143,1.38194611884463,0.0012194876615672,1.4184183828451,0.00183917003915944,common_significant,2,1,1,SE,JC;JCEC,True

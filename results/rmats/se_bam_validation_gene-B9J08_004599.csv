@@ -1,0 +1,7 @@
+sample,group,gene_id,event_id,BAM_upstream_all,BAM_upstream_NH1,BAM_upstream_unique_names,BAM_downstream_all,BAM_downstream_NH1,BAM_downstream_unique_names,BAM_skipping_all,BAM_skipping_NH1,BAM_skipping_unique_names,rMATS_upstream_count,rMATS_downstream_count,rMATS_target_count,rMATS_skipping_count,rMATS_PSI_JC,rMATS_PSI_JCEC,BAM_PSI_proxy,BAM_PSI_method
+SRR10059687,Sensitive,gene-B9J08_004599,8,269,258,239,220,211,202,9,9,9,196,149,2,8,0.956,0.956,0.960784,mean(unique upstream/downstream junction names) / (mean + unique skipping names)
+SRR10059688,Sensitive,gene-B9J08_004599,8,243,238,211,170,163,153,5,5,4,199,131,0,3,0.982,0.982,0.978495,mean(unique upstream/downstream junction names) / (mean + unique skipping names)
+SRR10059689,Sensitive,gene-B9J08_004599,8,373,354,320,303,283,270,15,15,15,288,201,1,13,0.95,0.95,0.951613,mean(unique upstream/downstream junction names) / (mean + unique skipping names)
+SRR10059690,Resistant,gene-B9J08_004599,8,375,356,300,240,234,224,3,3,3,272,165,3,2,0.991,0.991,0.988679,mean(unique upstream/downstream junction names) / (mean + unique skipping names)
+SRR10059691,Resistant,gene-B9J08_004599,8,690,669,593,555,537,504,3,3,3,513,370,5,2,0.996,0.996,0.99456,mean(unique upstream/downstream junction names) / (mean + unique skipping names)
+SRR10059692,Resistant,gene-B9J08_004599,8,411,405,369,330,328,314,2,2,2,313,230,2,1,0.996,0.996,0.994178,mean(unique upstream/downstream junction names) / (mean + unique skipping names)

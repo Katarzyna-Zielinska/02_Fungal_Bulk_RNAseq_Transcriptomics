@@ -1,0 +1,23 @@
+{
+    "total_annotated_genes": 5419,
+    "edgeR_tested_genes": 5376,
+    "limma_voom_tested_genes": 5376,
+    "genes_tested_by_both_methods": 5376,
+    "genes_not_tested": 43,
+    "FDR_threshold": 0.05,
+    "edgeR_significant_genes": 1325,
+    "limma_voom_significant_genes": 1214,
+    "common_significant_genes": 1210,
+    "edgeR_only_significant_genes": 115,
+    "limma_only_significant_genes": 4,
+    "not_significant_in_either_method": 4047,
+    "direction_concordant_genes": 5274,
+    "direction_discordant_genes": 102,
+    "DE_class_counts": {
+        "not_significant": 4047,
+        "common_significant": 1210,
+        "edgeR_only": 115,
+        "not_tested": 43,
+        "limma_only": 4
+    }
+}

@@ -1,0 +1,15 @@
+metric	value
+total_annotated_genes	5419.0
+edgeR_tested_genes	5376.0
+limma_voom_tested_genes	5376.0
+genes_tested_by_both_methods	5376.0
+genes_not_tested	43.0
+FDR_threshold	0.05
+edgeR_significant_genes	1325.0
+limma_voom_significant_genes	1214.0
+common_significant_genes	1210.0
+edgeR_only_significant_genes	115.0
+limma_only_significant_genes	4.0
+not_significant_in_either_method	4047.0
+direction_concordant_genes	5274.0
+direction_discordant_genes	102.0

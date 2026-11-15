@@ -1,0 +1,5 @@
+category,pathways
+Significant in both methods,5
+Significant only in fgsea,8
+Significant only in GSVA,1
+Not significant in either method,214

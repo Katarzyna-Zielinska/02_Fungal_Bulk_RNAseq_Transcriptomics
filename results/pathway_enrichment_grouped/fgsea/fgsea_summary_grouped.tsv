@@ -1,0 +1,16 @@
+metric	value
+genes_ranked	5376
+positive_ranking_values	2590
+negative_ranking_values	2786
+tied_ranking_values	0
+all_gene_pathway_assignments	8007
+tested_gene_pathway_assignments	7995
+excluded_unranked_assignments	12
+KEGG_pathway_sets	366
+pathways_tested	228
+significant_pathways_FDR05	13
+pathways_enriched_in_resistant	11
+pathways_enriched_in_sensitive	2
+FDR_threshold	0.05
+minimum_pathway_size	10
+maximum_pathway_size	500

@@ -1,0 +1,4 @@
+priority_class,genes,genes_with_annotation,genes_in_multiple_pathways
+Tier 1 - significant in both DE methods; pathway direction concordant,50,50,4
+Tier 3 - significant in one DE method,3,3,0
+Tier 4 - not significant in either DE method,38,38,4

@@ -1,0 +1,6 @@
+pathway,NES,fgsea_padj,fgsea_direction,leading_edge_genes,annotated_genes,genes_common_DE,genes_edgeR_only,genes_limma_only,genes_not_significant,genes_up_in_resistant,genes_down_in_resistant
+ko03008,-2.23180165547324,4.4602589638896e-06,Sensitive,47,47,25,2,0,20,0,47
+ko03020,-2.04507327586071,0.00408684219997975,Sensitive,16,16,7,1,0,8,0,16
+ko04066,1.93112955488119,0.0166700853419849,Resistant,11,11,6,0,0,5,11,0
+ko00710,1.93130801877533,0.0182071603877783,Resistant,13,13,9,0,0,4,13,0
+ko05230,1.92107049228309,0.0217501450673653,Resistant,12,12,7,0,0,5,12,0
